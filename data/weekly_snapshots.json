@@ -1868,6 +1868,1908 @@
           "week_points": 2.7999999523
         }
       }
+    },
+    "3": {
+      "week": 3,
+      "snapshot_date": "2025-09-23T06:33:31.277885",
+      "players": {
+        "00-0023459": {
+          "name": "A.Rodgers",
+          "position": "QB",
+          "team": "",
+          "week_points": 21.0400009155
+        },
+        "00-0026498": {
+          "name": "M.Stafford",
+          "position": "QB",
+          "team": "",
+          "week_points": 12.8400001526
+        },
+        "00-0027973": {
+          "name": "A.Dalton",
+          "position": "QB",
+          "team": "",
+          "week_points": 24.5599994659
+        },
+        "00-0029604": {
+          "name": "K.Cousins",
+          "position": "QB",
+          "team": "",
+          "week_points": 11.1000003815
+        },
+        "00-0029892": {
+          "name": "K.Juszczyk",
+          "position": "FB",
+          "team": "",
+          "week_points": 1.6000000238
+        },
+        "00-0030035": {
+          "name": "A.Thielen",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.0
+        },
+        "00-0030061": {
+          "name": "Z.Ertz",
+          "position": "TE",
+          "team": "",
+          "week_points": 8.8000001907
+        },
+        "00-0030506": {
+          "name": "T.Kelce",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.0
+        },
+        "00-0030564": {
+          "name": "D.Hopkins",
+          "position": "WR",
+          "team": "",
+          "week_points": 19.2999992371
+        },
+        "00-0030565": {
+          "name": "G.Smith",
+          "position": "QB",
+          "team": "",
+          "week_points": 11.3599996567
+        },
+        "00-0030578": {
+          "name": "C.Patterson",
+          "position": "RB",
+          "team": "",
+          "week_points": 7.8000001907
+        },
+        "00-0031236": {
+          "name": "B.Cooks",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.5999999046
+        },
+        "00-0031280": {
+          "name": "D.Carr",
+          "position": "QB",
+          "team": "",
+          "week_points": 7.9800000191
+        },
+        "00-0031381": {
+          "name": "D.Adams",
+          "position": "WR",
+          "team": "",
+          "week_points": 8.0
+        },
+        "00-0031408": {
+          "name": "M.Evans",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.7000000477
+        },
+        "00-0031544": {
+          "name": "A.Cooper",
+          "position": "WR",
+          "team": "",
+          "week_points": 27.6000003815
+        },
+        "00-0031549": {
+          "name": "N.Agholor",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.5999999046
+        },
+        "00-0031588": {
+          "name": "S.Diggs",
+          "position": "WR",
+          "team": "",
+          "week_points": 19.9200000763
+        },
+        "00-0031763": {
+          "name": "D.Carter",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.1999998093
+        },
+        "00-0032211": {
+          "name": "T.Lockett",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.6000003815
+        },
+        "00-0032392": {
+          "name": "A.Hooper",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.9000000954
+        },
+        "00-0032394": {
+          "name": "N.Vannett",
+          "position": "TE",
+          "team": "",
+          "week_points": 8.8999996185
+        },
+        "00-0032764": {
+          "name": "D.Henry",
+          "position": "RB",
+          "team": "",
+          "week_points": 30.3999996185
+        },
+        "00-0032775": {
+          "name": "D.Robinson",
+          "position": "WR",
+          "team": "",
+          "week_points": 4.1999998093
+        },
+        "00-0033009": {
+          "name": "T.Boyd",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.3000001907
+        },
+        "00-0033040": {
+          "name": "T.Hill",
+          "position": "WR",
+          "team": "",
+          "week_points": 7.0
+        },
+        "00-0033045": {
+          "name": "E.Elliott",
+          "position": "RB",
+          "team": "",
+          "week_points": 2.2000000477
+        },
+        "00-0033077": {
+          "name": "D.Prescott",
+          "position": "QB",
+          "team": "",
+          "week_points": 29.8600006104
+        },
+        "00-0033090": {
+          "name": "H.Henry",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.9000000954
+        },
+        "00-0033106": {
+          "name": "J.Goff",
+          "position": "QB",
+          "team": "",
+          "week_points": 14.5600004196
+        },
+        "00-0033119": {
+          "name": "J.Brissett",
+          "position": "QB",
+          "team": "",
+          "week_points": 3.9200000763
+        },
+        "00-0033217": {
+          "name": "M.Alie-Cox",
+          "position": "TE",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0033246": {
+          "name": "J.Mundt",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.1999998093
+        },
+        "00-0033282": {
+          "name": "C.Samuel",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.1999998093
+        },
+        "00-0033293": {
+          "name": "A.Jones",
+          "position": "RB",
+          "team": "",
+          "week_points": 25.7999992371
+        },
+        "00-0033526": {
+          "name": "S.Perine",
+          "position": "RB",
+          "team": "",
+          "week_points": 7.0
+        },
+        "00-0033537": {
+          "name": "D.Watson",
+          "position": "QB",
+          "team": "",
+          "week_points": 16.4400005341
+        },
+        "00-0033553": {
+          "name": "J.Conner",
+          "position": "RB",
+          "team": "",
+          "week_points": 3.5
+        },
+        "00-0033555": {
+          "name": "M.Hollins",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.5999999046
+        },
+        "00-0033576": {
+          "name": "E.Saubert",
+          "position": "TE",
+          "team": "",
+          "week_points": 6.0999999046
+        },
+        "00-0033699": {
+          "name": "A.Ekeler",
+          "position": "RB",
+          "team": "",
+          "week_points": 13.6999998093
+        },
+        "00-0033854": {
+          "name": "D.Ogunbowale",
+          "position": "RB",
+          "team": "",
+          "week_points": 4.8000001907
+        },
+        "00-0033857": {
+          "name": "J.Smith-Schuster",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.6999998093
+        },
+        "00-0033858": {
+          "name": "J.Smith",
+          "position": "TE",
+          "team": "",
+          "week_points": 3.7999999523
+        },
+        "00-0033873": {
+          "name": "P.Mahomes",
+          "position": "QB",
+          "team": "",
+          "week_points": 16.3799991608
+        },
+        "00-0033895": {
+          "name": "G.Everett",
+          "position": "TE",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0033906": {
+          "name": "A.Kamara",
+          "position": "RB",
+          "team": "",
+          "week_points": 15.6999998093
+        },
+        "00-0033921": {
+          "name": "C.Godwin",
+          "position": "WR",
+          "team": "",
+          "week_points": 17.2999992371
+        },
+        "00-0033943": {
+          "name": "J.Reynolds",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.5999999046
+        },
+        "00-0033948": {
+          "name": "J.Williams",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0034115": {
+          "name": "J.Wilson",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.3999999762
+        },
+        "00-0034159": {
+          "name": "W.Dissly",
+          "position": "TE",
+          "team": "",
+          "week_points": 4.9000000954
+        },
+        "00-0034184": {
+          "name": "G.Edwards",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0034270": {
+          "name": "T.Conklin",
+          "position": "TE",
+          "team": "",
+          "week_points": 14.3000001907
+        },
+        "00-0034272": {
+          "name": "M.Valdes-Scantling",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.7000000477
+        },
+        "00-0034348": {
+          "name": "C.Sutton",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.8000001907
+        },
+        "00-0034351": {
+          "name": "D.Goedert",
+          "position": "TE",
+          "team": "",
+          "week_points": 27.0
+        },
+        "00-0034364": {
+          "name": "J.Akins",
+          "position": "TE",
+          "team": "",
+          "week_points": 6.9000000954
+        },
+        "00-0034383": {
+          "name": "D.Schultz",
+          "position": "TE",
+          "team": "",
+          "week_points": 3.0999999046
+        },
+        "00-0034386": {
+          "name": "J.Watson",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0034407": {
+          "name": "R.McCloud",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.6999998093
+        },
+        "00-0034419": {
+          "name": "B.Berrios",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0034521": {
+          "name": "A.Lazard",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.8000001907
+        },
+        "00-0034753": {
+          "name": "M.Andrews",
+          "position": "TE",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0034775": {
+          "name": "C.Kirk",
+          "position": "WR",
+          "team": "",
+          "week_points": 15.8999996185
+        },
+        "00-0034796": {
+          "name": "L.Jackson",
+          "position": "QB",
+          "team": "",
+          "week_points": 25.9799995422
+        },
+        "00-0034798": {
+          "name": "D.Smythe",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.2999999523
+        },
+        "00-0034827": {
+          "name": "D.Moore",
+          "position": "WR",
+          "team": "",
+          "week_points": 15.1999998093
+        },
+        "00-0034829": {
+          "name": "M.Gesicki",
+          "position": "TE",
+          "team": "",
+          "week_points": 8.6999998093
+        },
+        "00-0034830": {
+          "name": "H.Hurst",
+          "position": "TE",
+          "team": "",
+          "week_points": 3.5
+        },
+        "00-0034837": {
+          "name": "C.Ridley",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0034844": {
+          "name": "S.Barkley",
+          "position": "RB",
+          "team": "",
+          "week_points": 33.5999984741
+        },
+        "00-0034855": {
+          "name": "B.Mayfield",
+          "position": "QB",
+          "team": "",
+          "week_points": 8.5200004578
+        },
+        "00-0034857": {
+          "name": "J.Allen",
+          "position": "QB",
+          "team": "",
+          "week_points": 30.9200000763
+        },
+        "00-0034869": {
+          "name": "S.Darnold",
+          "position": "QB",
+          "team": "",
+          "week_points": 23.2399997711
+        },
+        "00-0034960": {
+          "name": "J.Meyers",
+          "position": "WR",
+          "team": "",
+          "week_points": 21.2000007629
+        },
+        "00-0034972": {
+          "name": "A.Mattison",
+          "position": "RB",
+          "team": "",
+          "week_points": 13.3999996185
+        },
+        "00-0034975": {
+          "name": "J.Hill",
+          "position": "RB",
+          "team": "",
+          "week_points": 7.4000000954
+        },
+        "00-0034981": {
+          "name": "F.Moreau",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0035021": {
+          "name": "A.Dulin",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0035125": {
+          "name": "A.Ingold",
+          "position": "FB",
+          "team": "",
+          "week_points": 4.4000000954
+        },
+        "00-0035216": {
+          "name": "D.Johnson",
+          "position": "WR",
+          "team": "",
+          "week_points": 26.2000007629
+        },
+        "00-0035228": {
+          "name": "K.Murray",
+          "position": "QB",
+          "team": "",
+          "week_points": 14.779999733
+        },
+        "00-0035243": {
+          "name": "M.Sanders",
+          "position": "RB",
+          "team": "",
+          "week_points": 11.0
+        },
+        "00-0035249": {
+          "name": "J.Oliver",
+          "position": "TE",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0035250": {
+          "name": "D.Singletary",
+          "position": "RB",
+          "team": "",
+          "week_points": 18.7999992371
+        },
+        "00-0035261": {
+          "name": "T.Pollard",
+          "position": "RB",
+          "team": "",
+          "week_points": 5.9000000954
+        },
+        "00-0035289": {
+          "name": "G.Minshew",
+          "position": "QB",
+          "team": "",
+          "week_points": 13.9600000381
+        },
+        "00-0035406": {
+          "name": "L.Humphrey",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.6999998093
+        },
+        "00-0035500": {
+          "name": "G.Dortch",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.5
+        },
+        "00-0035535": {
+          "name": "D.Slayton",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.7000000477
+        },
+        "00-0035537": {
+          "name": "T.Johnson",
+          "position": "RB",
+          "team": "",
+          "week_points": 13.6000003815
+        },
+        "00-0035640": {
+          "name": "D.Metcalf",
+          "position": "WR",
+          "team": "",
+          "week_points": 20.3999996185
+        },
+        "00-0035644": {
+          "name": "N.Fant",
+          "position": "TE",
+          "team": "",
+          "week_points": 12.0
+        },
+        "00-0035659": {
+          "name": "T.McLaurin",
+          "position": "WR",
+          "team": "",
+          "week_points": 20.0
+        },
+        "00-0035685": {
+          "name": "D.Montgomery",
+          "position": "RB",
+          "team": "",
+          "week_points": 21.2000007629
+        },
+        "00-0035689": {
+          "name": "D.Knox",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.7000000477
+        },
+        "00-0035700": {
+          "name": "J.Jacobs",
+          "position": "RB",
+          "team": "",
+          "week_points": 5.8000001907
+        },
+        "00-0035710": {
+          "name": "D.Jones",
+          "position": "QB",
+          "team": "",
+          "week_points": 19.4400005341
+        },
+        "00-0036139": {
+          "name": "R.Dowdle",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.6000003815
+        },
+        "00-0036158": {
+          "name": "J.Dobbins",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.3999996185
+        },
+        "00-0036196": {
+          "name": "G.Davis",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.7999999523
+        },
+        "00-0036223": {
+          "name": "J.Taylor",
+          "position": "RB",
+          "team": "",
+          "week_points": 26.5
+        },
+        "00-0036244": {
+          "name": "C.Parkinson",
+          "position": "TE",
+          "team": "",
+          "week_points": 5.0999999046
+        },
+        "00-0036251": {
+          "name": "Z.Moss",
+          "position": "RB",
+          "team": "",
+          "week_points": 20.7000007629
+        },
+        "00-0036252": {
+          "name": "M.Pittman",
+          "position": "WR",
+          "team": "",
+          "week_points": 7.5999999046
+        },
+        "00-0036259": {
+          "name": "J.Jennings",
+          "position": "WR",
+          "team": "",
+          "week_points": 46.5
+        },
+        "00-0036261": {
+          "name": "B.Aiyuk",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.8000001907
+        },
+        "00-0036268": {
+          "name": "L.Shenault",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0036275": {
+          "name": "D.Swift",
+          "position": "RB",
+          "team": "",
+          "week_points": 6.1999998093
+        },
+        "00-0036290": {
+          "name": "C.Kmet",
+          "position": "TE",
+          "team": "",
+          "week_points": 25.7000007629
+        },
+        "00-0036309": {
+          "name": "D.Mooney",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.6000003815
+        },
+        "00-0036322": {
+          "name": "J.Jefferson",
+          "position": "WR",
+          "team": "",
+          "week_points": 20.1000003815
+        },
+        "00-0036328": {
+          "name": "A.Gibson",
+          "position": "RB",
+          "team": "",
+          "week_points": 6.6999998093
+        },
+        "00-0036331": {
+          "name": "D.Duvernay",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0036355": {
+          "name": "J.Herbert",
+          "position": "QB",
+          "team": "",
+          "week_points": 9.0
+        },
+        "00-0036358": {
+          "name": "C.Lamb",
+          "position": "WR",
+          "team": "",
+          "week_points": 8.6999998093
+        },
+        "00-0036389": {
+          "name": "J.Hurts",
+          "position": "QB",
+          "team": "",
+          "week_points": 10.9399995804
+        },
+        "00-0036407": {
+          "name": "J.Jeudy",
+          "position": "WR",
+          "team": "",
+          "week_points": 8.6999998093
+        },
+        "00-0036422": {
+          "name": "A.Trautman",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0036427": {
+          "name": "T.Johnson",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.0
+        },
+        "00-0036442": {
+          "name": "J.Burrow",
+          "position": "QB",
+          "team": "",
+          "week_points": 25.3600006104
+        },
+        "00-0036550": {
+          "name": "R.Bateman",
+          "position": "WR",
+          "team": "",
+          "week_points": 11.8000001907
+        },
+        "00-0036554": {
+          "name": "N.Collins",
+          "position": "WR",
+          "team": "",
+          "week_points": 12.6000003815
+        },
+        "00-0036555": {
+          "name": "C.Hubbard",
+          "position": "RB",
+          "team": "",
+          "week_points": 27.8999996185
+        },
+        "00-0036613": {
+          "name": "J.Waddle",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.5999999046
+        },
+        "00-0036637": {
+          "name": "N.Gray",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0036754": {
+          "name": "B.Wright",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.4000000954
+        },
+        "00-0036875": {
+          "name": "R.Stevenson",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.3000000119
+        },
+        "00-0036876": {
+          "name": "K.Granson",
+          "position": "TE",
+          "team": "",
+          "week_points": 5.0
+        },
+        "00-0036893": {
+          "name": "N.Harris",
+          "position": "RB",
+          "team": "",
+          "week_points": 13.6000003815
+        },
+        "00-0036894": {
+          "name": "P.Freiermuth",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.3000001907
+        },
+        "00-0036900": {
+          "name": "J.Chase",
+          "position": "WR",
+          "team": "",
+          "week_points": 29.7999992371
+        },
+        "00-0036906": {
+          "name": "K.Herbert",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0036912": {
+          "name": "D.Smith",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.8999996185
+        },
+        "00-0036919": {
+          "name": "K.Gainwell",
+          "position": "RB",
+          "team": "",
+          "week_points": 3.2000000477
+        },
+        "00-0036945": {
+          "name": "J.Fields",
+          "position": "QB",
+          "team": "",
+          "week_points": 18.3999996185
+        },
+        "00-0036963": {
+          "name": "A.St. Brown",
+          "position": "WR",
+          "team": "",
+          "week_points": 20.5
+        },
+        "00-0036970": {
+          "name": "K.Pitts",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.9000000954
+        },
+        "00-0036971": {
+          "name": "T.Lawrence",
+          "position": "QB",
+          "team": "",
+          "week_points": 9.4200000763
+        },
+        "00-0036973": {
+          "name": "T.Etienne",
+          "position": "RB",
+          "team": "",
+          "week_points": 12.5
+        },
+        "00-0036980": {
+          "name": "E.Moore",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.7000000477
+        },
+        "00-0036997": {
+          "name": "J.Williams",
+          "position": "RB",
+          "team": "",
+          "week_points": 6.0999999046
+        },
+        "00-0037228": {
+          "name": "J.Warren",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.1000000238
+        },
+        "00-0037238": {
+          "name": "D.London",
+          "position": "WR",
+          "team": "",
+          "week_points": 18.7000007629
+        },
+        "00-0037239": {
+          "name": "C.Olave",
+          "position": "WR",
+          "team": "",
+          "week_points": 20.6000003815
+        },
+        "00-0037240": {
+          "name": "J.Williams",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0037247": {
+          "name": "G.Pickens",
+          "position": "WR",
+          "team": "",
+          "week_points": 10.6999998093
+        },
+        "00-0037248": {
+          "name": "J.Cook",
+          "position": "RB",
+          "team": "",
+          "week_points": 18.7000007629
+        },
+        "00-0037256": {
+          "name": "R.White",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.5
+        },
+        "00-0037261": {
+          "name": "K.Shakir",
+          "position": "WR",
+          "team": "",
+          "week_points": 19.2000007629
+        },
+        "00-0037263": {
+          "name": "T.Allgeier",
+          "position": "RB",
+          "team": "",
+          "week_points": 3.2000000477
+        },
+        "00-0037267": {
+          "name": "J.Ford",
+          "position": "RB",
+          "team": "",
+          "week_points": 10.0
+        },
+        "00-0037276": {
+          "name": "T.Chandler",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.2999999523
+        },
+        "00-0037291": {
+          "name": "J.Nailor",
+          "position": "WR",
+          "team": "",
+          "week_points": 12.3999996185
+        },
+        "00-0037525": {
+          "name": "J.Mason",
+          "position": "RB",
+          "team": "",
+          "week_points": 10.8000001907
+        },
+        "00-0037545": {
+          "name": "R.Shaheed",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0037557": {
+          "name": "R.Rivers",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0037664": {
+          "name": "A.Pierce",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.4000000954
+        },
+        "00-0037666": {
+          "name": "J.Tolbert",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.1999998093
+        },
+        "00-0037740": {
+          "name": "G.Wilson",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.3000001907
+        },
+        "00-0037741": {
+          "name": "J.Dotson",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.7999999523
+        },
+        "00-0037742": {
+          "name": "T.Burks",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0037744": {
+          "name": "T.McBride",
+          "position": "TE",
+          "team": "",
+          "week_points": 5.5
+        },
+        "00-0037746": {
+          "name": "B.Robinson",
+          "position": "RB",
+          "team": "",
+          "week_points": 10.6999998093
+        },
+        "00-0037801": {
+          "name": "K.Turpin",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.1999998093
+        },
+        "00-0037809": {
+          "name": "C.Okonkwo",
+          "position": "TE",
+          "team": "",
+          "week_points": 3.5
+        },
+        "00-0037816": {
+          "name": "R.Doubs",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.7999999523
+        },
+        "00-0037834": {
+          "name": "B.Purdy",
+          "position": "QB",
+          "team": "",
+          "week_points": 25.7800006866
+        },
+        "00-0037837": {
+          "name": "C.Austin",
+          "position": "WR",
+          "team": "",
+          "week_points": 19.5
+        },
+        "00-0037838": {
+          "name": "I.Likely",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.3999999762
+        },
+        "00-0037840": {
+          "name": "K.Williams",
+          "position": "RB",
+          "team": "",
+          "week_points": 31.6000003815
+        },
+        "00-0038040": {
+          "name": "Z.White",
+          "position": "RB",
+          "team": "",
+          "week_points": 3.4000000954
+        },
+        "00-0038041": {
+          "name": "J.Ferguson",
+          "position": "TE",
+          "team": "",
+          "week_points": 15.5
+        },
+        "00-0038104": {
+          "name": "T.Thornton",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038115": {
+          "name": "D.Bellinger",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.7000000477
+        },
+        "00-0038117": {
+          "name": "W.Robinson",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.1000003815
+        },
+        "00-0038120": {
+          "name": "B.Hall",
+          "position": "RB",
+          "team": "",
+          "week_points": 18.2999992371
+        },
+        "00-0038124": {
+          "name": "C.Watson",
+          "position": "WR",
+          "team": "",
+          "week_points": 8.6999998093
+        },
+        "00-0038128": {
+          "name": "M.Willis",
+          "position": "QB",
+          "team": "",
+          "week_points": 25.3799991608
+        },
+        "00-0038129": {
+          "name": "C.Otton",
+          "position": "TE",
+          "team": "",
+          "week_points": 9.6999998093
+        },
+        "00-0038393": {
+          "name": "D.Wicks",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038396": {
+          "name": "E.Gray",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038542": {
+          "name": "B.Robinson",
+          "position": "RB",
+          "team": "",
+          "week_points": 13.1999998093
+        },
+        "00-0038543": {
+          "name": "J.Smith-Njigba",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.9000000954
+        },
+        "00-0038544": {
+          "name": "Q.Johnston",
+          "position": "WR",
+          "team": "",
+          "week_points": 12.3999996185
+        },
+        "00-0038555": {
+          "name": "T.Bigsby",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8999999762
+        },
+        "00-0038559": {
+          "name": "M.Wilson",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.3999996185
+        },
+        "00-0038563": {
+          "name": "T.Tucker",
+          "position": "WR",
+          "team": "",
+          "week_points": 22.6000003815
+        },
+        "00-0038573": {
+          "name": "D.Davis",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.8000000119
+        },
+        "00-0038597": {
+          "name": "C.Brown",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.8999996185
+        },
+        "00-0038606": {
+          "name": "P.Washington",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.7999999523
+        },
+        "00-0038618": {
+          "name": "X.Hutchinson",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038619": {
+          "name": "A.Iosivas",
+          "position": "WR",
+          "team": "",
+          "week_points": 16.2000007629
+        },
+        "00-0038621": {
+          "name": "D.Douglas",
+          "position": "WR",
+          "team": "",
+          "week_points": 14.8000001907
+        },
+        "00-0038622": {
+          "name": "D.Vaughn",
+          "position": "RB",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0038640": {
+          "name": "J.Brooks",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.4000000954
+        },
+        "00-0038705": {
+          "name": "E.Demercado",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.6999999881
+        },
+        "00-0038720": {
+          "name": "J.Hill",
+          "position": "TE",
+          "team": "",
+          "week_points": 4.4000000954
+        },
+        "00-0038738": {
+          "name": "H.Luepke",
+          "position": "FB",
+          "team": "",
+          "week_points": 6.0999999046
+        },
+        "00-0038794": {
+          "name": "J.McLaughlin",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.3999996185
+        },
+        "00-0038797": {
+          "name": "E.Wilson",
+          "position": "RB",
+          "team": "",
+          "week_points": 16.5
+        },
+        "00-0038933": {
+          "name": "D.Kincaid",
+          "position": "TE",
+          "team": "",
+          "week_points": 13.1000003815
+        },
+        "00-0038938": {
+          "name": "J.Hyatt",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038976": {
+          "name": "M.Mims",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0038977": {
+          "name": "T.Dell",
+          "position": "WR",
+          "team": "",
+          "week_points": 11.1999998093
+        },
+        "00-0038979": {
+          "name": "C.Tillman",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.3999999762
+        },
+        "00-0038996": {
+          "name": "T.Kraft",
+          "position": "TE",
+          "team": "",
+          "week_points": 4.4000000954
+        },
+        "00-0039032": {
+          "name": "T.Spears",
+          "position": "RB",
+          "team": "",
+          "week_points": 10.1000003815
+        },
+        "00-0039040": {
+          "name": "D.Achane",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.8000001907
+        },
+        "00-0039041": {
+          "name": "E.Higgins",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.0999999046
+        },
+        "00-0039052": {
+          "name": "T.Palmer",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0039062": {
+          "name": "J.Mingo",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.0
+        },
+        "00-0039064": {
+          "name": "Z.Flowers",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.3000001907
+        },
+        "00-0039065": {
+          "name": "S.LaPorta",
+          "position": "TE",
+          "team": "",
+          "week_points": 5.5999999046
+        },
+        "00-0039066": {
+          "name": "M.Mayer",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.7000000477
+        },
+        "00-0039067": {
+          "name": "R.Rice",
+          "position": "WR",
+          "team": "",
+          "week_points": 29.1000003815
+        },
+        "00-0039139": {
+          "name": "J.Gibbs",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.3000001907
+        },
+        "00-0039144": {
+          "name": "L.Musgrave",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.2999999523
+        },
+        "00-0039146": {
+          "name": "J.Reed",
+          "position": "WR",
+          "team": "",
+          "week_points": 10.8999996185
+        },
+        "00-0039152": {
+          "name": "W.Levis",
+          "position": "QB",
+          "team": "",
+          "week_points": 13.6000003815
+        },
+        "00-0039163": {
+          "name": "C.Stroud",
+          "position": "QB",
+          "team": "",
+          "week_points": 9.8000001907
+        },
+        "00-0039164": {
+          "name": "A.Richardson",
+          "position": "QB",
+          "team": "",
+          "week_points": 5.0799999237
+        },
+        "00-0039165": {
+          "name": "Z.Charbonnet",
+          "position": "RB",
+          "team": "",
+          "week_points": 25.7000007629
+        },
+        "00-0039236": {
+          "name": "J.Wilson",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0039325": {
+          "name": "C.Steele",
+          "position": "RB",
+          "team": "",
+          "week_points": 8.3999996185
+        },
+        "00-0039337": {
+          "name": "M.Nabers",
+          "position": "WR",
+          "team": "",
+          "week_points": 28.2000007629
+        },
+        "00-0039338": {
+          "name": "B.Bowers",
+          "position": "TE",
+          "team": "",
+          "week_points": 7.0999999046
+        },
+        "00-0039342": {
+          "name": "X.Legette",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.1999998093
+        },
+        "00-0039355": {
+          "name": "L.McCaffrey",
+          "position": "WR",
+          "team": "",
+          "week_points": 7.4000000954
+        },
+        "00-0039356": {
+          "name": "J.Sanders",
+          "position": "TE",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0039361": {
+          "name": "B.Irving",
+          "position": "RB",
+          "team": "",
+          "week_points": 11.3999996185
+        },
+        "00-0039384": {
+          "name": "T.Tracy",
+          "position": "RB",
+          "team": "",
+          "week_points": 6.0
+        },
+        "00-0039623": {
+          "name": "M.Tipton",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.0999999046
+        },
+        "00-0039732": {
+          "name": "B.Nix",
+          "position": "QB",
+          "team": "",
+          "week_points": 19.3400001526
+        },
+        "00-0039794": {
+          "name": "B.Allen",
+          "position": "RB",
+          "team": "",
+          "week_points": 9.8000001907
+        },
+        "00-0039847": {
+          "name": "T.Johnson",
+          "position": "TE",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0039849": {
+          "name": "M.Harrison",
+          "position": "WR",
+          "team": "",
+          "week_points": 17.3999996185
+        },
+        "00-0039855": {
+          "name": "J.McMillan",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.6000000238
+        },
+        "00-0039875": {
+          "name": "R.Davis",
+          "position": "RB",
+          "team": "",
+          "week_points": 9.3000001907
+        },
+        "00-0039890": {
+          "name": "A.Mitchell",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0039893": {
+          "name": "B.Thomas",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.8000001907
+        },
+        "00-0039894": {
+          "name": "X.Worthy",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.0
+        },
+        "00-0039901": {
+          "name": "K.Coleman",
+          "position": "WR",
+          "team": "",
+          "week_points": 9.3999996185
+        },
+        "00-0039907": {
+          "name": "J.Polk",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.2999999523
+        },
+        "00-0039910": {
+          "name": "J.Daniels",
+          "position": "QB",
+          "team": "",
+          "week_points": 28.0599994659
+        },
+        "00-0039915": {
+          "name": "L.McConkey",
+          "position": "WR",
+          "team": "",
+          "week_points": 7.4000000954
+        },
+        "00-0039918": {
+          "name": "C.Williams",
+          "position": "QB",
+          "team": "",
+          "week_points": 17.3199996948
+        },
+        "00-0039919": {
+          "name": "R.Odunze",
+          "position": "WR",
+          "team": "",
+          "week_points": 23.3999996185
+        },
+        "00-0039921": {
+          "name": "T.Benson",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.8000000119
+        },
+        "00-0030431": {
+          "name": "R.Woods",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.7999999523
+        },
+        "00-0031503": {
+          "name": "J.Winston",
+          "position": "QB",
+          "team": "",
+          "week_points": 0.1000000015
+        },
+        "00-0031800": {
+          "name": "T.Heinicke",
+          "position": "QB",
+          "team": "",
+          "week_points": 0.9599999785
+        },
+        "00-0032104": {
+          "name": "A.Abdullah",
+          "position": "RB",
+          "team": "",
+          "week_points": 3.2999999523
+        },
+        "00-0033319": {
+          "name": "N.Mullens",
+          "position": "QB",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0033375": {
+          "name": "T.Patrick",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.7999999523
+        },
+        "00-0033439": {
+          "name": "P.Brown",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0033536": {
+          "name": "M.Williams",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.4000000954
+        },
+        "00-0033591": {
+          "name": "N.Brown",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.9000000954
+        },
+        "00-0033869": {
+          "name": "M.Trubisky",
+          "position": "QB",
+          "team": "",
+          "week_points": 0.0199999996
+        },
+        "00-0033925": {
+          "name": "D.Foreman",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.5
+        },
+        "00-0033955": {
+          "name": "J.McNichols",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.1000000015
+        },
+        "00-0034177": {
+          "name": "T.Boyle",
+          "position": "QB",
+          "team": "",
+          "week_points": 3.7599999905
+        },
+        "00-0034418": {
+          "name": "C.Wilson",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.2999999523
+        },
+        "00-0034487": {
+          "name": "T.Sherfield",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.7999999523
+        },
+        "00-0034571": {
+          "name": "T.Scott",
+          "position": "T",
+          "team": "",
+          "week_points": 7.0999999046
+        },
+        "00-0034646": {
+          "name": "B.Powell",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0035298": {
+          "name": "S.Miller",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.0999999046
+        },
+        "00-0035628": {
+          "name": "D.Johnson",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0035639": {
+          "name": "P.Campbell",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.2999999523
+        },
+        "00-0035806": {
+          "name": "J.Hasty",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.5
+        },
+        "00-0036096": {
+          "name": "J.Taylor",
+          "position": "RB",
+          "team": "",
+          "week_points": 2.2999999523
+        },
+        "00-0036332": {
+          "name": "J.Deguara",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.7999999523
+        },
+        "00-0036410": {
+          "name": "T.Higgins",
+          "position": "WR",
+          "team": "",
+          "week_points": 6.9000000954
+        },
+        "00-0036414": {
+          "name": "C.Akers",
+          "position": "RB",
+          "team": "",
+          "week_points": 9.8999996185
+        },
+        "00-0036620": {
+          "name": "D.Eskridge",
+          "position": "WR",
+          "team": "",
+          "week_points": 4.0
+        },
+        "00-0036626": {
+          "name": "D.Brown",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.5999999046
+        },
+        "00-0036646": {
+          "name": "S.Fehoko",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.7000000477
+        },
+        "00-0036849": {
+          "name": "T.Atwell",
+          "position": "WR",
+          "team": "",
+          "week_points": 13.3000001907
+        },
+        "00-0036887": {
+          "name": "L.Farrell",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.1000000238
+        },
+        "00-0036898": {
+          "name": "D.Mills",
+          "position": "QB",
+          "team": "",
+          "week_points": 3.1600000858
+        },
+        "00-0036972": {
+          "name": "M.Jones",
+          "position": "QB",
+          "team": "",
+          "week_points": -1.1200000048
+        },
+        "00-0036984": {
+          "name": "T.Sermon",
+          "position": "RB",
+          "team": "",
+          "week_points": 7.5999999046
+        },
+        "00-0037005": {
+          "name": "T.Tremble",
+          "position": "TE",
+          "team": "",
+          "week_points": 5.9000000954
+        },
+        "00-0037085": {
+          "name": "T.Badie",
+          "position": "RB",
+          "team": "",
+          "week_points": 7.0
+        },
+        "00-0037132": {
+          "name": "B.Covey",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.0999999046
+        },
+        "00-0037243": {
+          "name": "T.Smith",
+          "position": "G",
+          "team": "",
+          "week_points": 1.0
+        },
+        "00-0037304": {
+          "name": "C.Heyward",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0037327": {
+          "name": "S.Thompson",
+          "position": "QB",
+          "team": "",
+          "week_points": 4.2800002098
+        },
+        "00-0037348": {
+          "name": "T.Conner",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.1000000238
+        },
+        "00-0037805": {
+          "name": "J.Ruckert",
+          "position": "TE",
+          "team": "",
+          "week_points": 3.5
+        },
+        "00-0038046": {
+          "name": "C.Kolar",
+          "position": "TE",
+          "team": "",
+          "week_points": 4.0
+        },
+        "00-0038092": {
+          "name": "E.Ezukanma",
+          "position": "WR",
+          "team": "",
+          "week_points": 0.0
+        },
+        "00-0038496": {
+          "name": "X.Gipson",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.5999999046
+        },
+        "00-0038547": {
+          "name": "L.Schoonmaker",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.5
+        },
+        "00-0038579": {
+          "name": "A.O'Connell",
+          "position": "QB",
+          "team": "",
+          "week_points": 7.2800002098
+        },
+        "00-0038589": {
+          "name": "J.Whyle",
+          "position": "TE",
+          "team": "",
+          "week_points": 8.3000001907
+        },
+        "00-0038608": {
+          "name": "K.Boutte",
+          "position": "WR",
+          "team": "",
+          "week_points": 1.2000000477
+        },
+        "00-0038636": {
+          "name": "K.McIntosh",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.1000000238
+        },
+        "00-0038647": {
+          "name": "R.Bell",
+          "position": "WR",
+          "team": "",
+          "week_points": 2.2000000477
+        },
+        "00-0038685": {
+          "name": "C.Brooks",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.3000000119
+        },
+        "00-0038783": {
+          "name": "N.Adkins",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.6000000238
+        },
+        "00-0038935": {
+          "name": "B.Strange",
+          "position": "TE",
+          "team": "",
+          "week_points": 9.1999998093
+        },
+        "00-0038951": {
+          "name": "S.Tucker",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.400000006
+        },
+        "00-0038997": {
+          "name": "J.Downs",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.1999998093
+        },
+        "00-0039021": {
+          "name": "R.Johnson",
+          "position": "RB",
+          "team": "",
+          "week_points": 10.1999998093
+        },
+        "00-0039050": {
+          "name": "P.Durham",
+          "position": "TE",
+          "team": "",
+          "week_points": 1.7999999523
+        },
+        "00-0039363": {
+          "name": "I.Guerendo",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.8999999762
+        },
+        "00-0039603": {
+          "name": "B.Brooks",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.200000003
+        },
+        "00-0039751": {
+          "name": "J.Whittington",
+          "position": "WR",
+          "team": "",
+          "week_points": 5.8000001907
+        },
+        "00-0039793": {
+          "name": "A.Barner",
+          "position": "TE",
+          "team": "",
+          "week_points": 4.3000001907
+        },
+        "00-0039798": {
+          "name": "I.Davis",
+          "position": "RB",
+          "team": "",
+          "week_points": 0.6000000238
+        },
+        "00-0039814": {
+          "name": "E.All",
+          "position": "TE",
+          "team": "",
+          "week_points": 6.1999998093
+        },
+        "00-0039851": {
+          "name": "D.Maye",
+          "position": "QB",
+          "team": "",
+          "week_points": 2.0799999237
+        },
+        "00-0039868": {
+          "name": "T.Franklin",
+          "position": "WR",
+          "team": "",
+          "week_points": 3.0999999046
+        },
+        "00-0039874": {
+          "name": "J.Wright",
+          "position": "RB",
+          "team": "",
+          "week_points": 1.7000000477
+        }
+      }
     }
   }
 }

@@ -1,375 +1,40 @@
 {
-  "generated_at": "2025-09-09T06:33:44.149681",
+  "generated_at": "2025-09-23T06:33:31.627145",
   "analysis": {
     "position_depth": {
-      "WR": {
-        "early_round_count": 29,
-        "first_player_adp": 1.5,
-        "top_5_adps": [
-          1.5,
-          4.5,
-          4.8,
-          7.6,
-          9.4
-        ],
-        "avg_early_adp": 30.4
-      },
       "RB": {
-        "early_round_count": 22,
-        "first_player_adp": 2.2,
+        "early_round_count": 1,
+        "first_player_adp": 4.5,
         "top_5_adps": [
-          2.2,
-          2.3,
-          5.0,
-          7.5,
-          10.9
+          4.5
         ],
-        "avg_early_adp": 27.2
+        "avg_early_adp": 4.5
       },
       "QB": {
-        "early_round_count": 7,
-        "first_player_adp": 23.7,
+        "early_round_count": 1,
+        "first_player_adp": 24.1,
         "top_5_adps": [
-          23.7,
-          24.2,
-          30.6,
-          31.7,
-          38.7
+          24.1
         ],
-        "avg_early_adp": 36.4
-      },
-      "TE": {
-        "early_round_count": 3,
-        "first_player_adp": 26.3,
-        "top_5_adps": [
-          26.3,
-          32.3,
-          43.5
-        ],
-        "avg_early_adp": 34.0
+        "avg_early_adp": 24.1
       }
     },
     "round_composition": {
       "1": {
-        "total_players": 13,
+        "total_players": 1,
         "position_breakdown": {
-          "WR": {
-            "count": 7,
-            "percentage": 53.8
-          },
           "RB": {
-            "count": 6,
-            "percentage": 46.2
+            "count": 1,
+            "percentage": 100.0
           }
         }
       },
       "2": {
-        "total_players": 13,
+        "total_players": 1,
         "position_breakdown": {
-          "RB": {
-            "count": 6,
-            "percentage": 46.2
-          },
-          "WR": {
-            "count": 5,
-            "percentage": 38.5
-          },
-          "QB": {
-            "count": 2,
-            "percentage": 15.4
-          }
-        }
-      },
-      "5": {
-        "total_players": 11,
-        "position_breakdown": {
-          "WR": {
-            "count": 5,
-            "percentage": 45.5
-          },
-          "RB": {
-            "count": 4,
-            "percentage": 36.4
-          },
-          "QB": {
-            "count": 2,
-            "percentage": 18.2
-          }
-        }
-      },
-      "4": {
-        "total_players": 13,
-        "position_breakdown": {
-          "RB": {
-            "count": 4,
-            "percentage": 30.8
-          },
           "QB": {
             "count": 1,
-            "percentage": 7.7
-          },
-          "WR": {
-            "count": 7,
-            "percentage": 53.8
-          },
-          "TE": {
-            "count": 1,
-            "percentage": 7.7
-          }
-        }
-      },
-      "7": {
-        "total_players": 15,
-        "position_breakdown": {
-          "QB": {
-            "count": 3,
-            "percentage": 20.0
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 13.3
-          },
-          "WR": {
-            "count": 7,
-            "percentage": 46.7
-          },
-          "RB": {
-            "count": 3,
-            "percentage": 20.0
-          }
-        }
-      },
-      "13": {
-        "total_players": 31,
-        "position_breakdown": {
-          "QB": {
-            "count": 5,
-            "percentage": 16.1
-          },
-          "TE": {
-            "count": 3,
-            "percentage": 9.7
-          },
-          "WR": {
-            "count": 5,
-            "percentage": 16.1
-          },
-          "RB": {
-            "count": 7,
-            "percentage": 22.6
-          },
-          "PK": {
-            "count": 6,
-            "percentage": 19.4
-          },
-          "DEF": {
-            "count": 5,
-            "percentage": 16.1
-          }
-        }
-      },
-      "8": {
-        "total_players": 9,
-        "position_breakdown": {
-          "WR": {
-            "count": 6,
-            "percentage": 66.7
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 22.2
-          },
-          "RB": {
-            "count": 1,
-            "percentage": 11.1
-          }
-        }
-      },
-      "12": {
-        "total_players": 17,
-        "position_breakdown": {
-          "TE": {
-            "count": 2,
-            "percentage": 11.8
-          },
-          "RB": {
-            "count": 5,
-            "percentage": 29.4
-          },
-          "QB": {
-            "count": 1,
-            "percentage": 5.9
-          },
-          "WR": {
-            "count": 4,
-            "percentage": 23.5
-          },
-          "PK": {
-            "count": 3,
-            "percentage": 17.6
-          },
-          "DEF": {
-            "count": 2,
-            "percentage": 11.8
-          }
-        }
-      },
-      "3": {
-        "total_players": 11,
-        "position_breakdown": {
-          "RB": {
-            "count": 2,
-            "percentage": 18.2
-          },
-          "WR": {
-            "count": 5,
-            "percentage": 45.5
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 18.2
-          },
-          "QB": {
-            "count": 2,
-            "percentage": 18.2
-          }
-        }
-      },
-      "10": {
-        "total_players": 15,
-        "position_breakdown": {
-          "WR": {
-            "count": 5,
-            "percentage": 33.3
-          },
-          "QB": {
-            "count": 2,
-            "percentage": 13.3
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 13.3
-          },
-          "RB": {
-            "count": 3,
-            "percentage": 20.0
-          },
-          "DEF": {
-            "count": 3,
-            "percentage": 20.0
-          }
-        }
-      },
-      "6": {
-        "total_players": 13,
-        "position_breakdown": {
-          "WR": {
-            "count": 5,
-            "percentage": 38.5
-          },
-          "RB": {
-            "count": 5,
-            "percentage": 38.5
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 15.4
-          },
-          "QB": {
-            "count": 1,
-            "percentage": 7.7
-          }
-        }
-      },
-      "9": {
-        "total_players": 16,
-        "position_breakdown": {
-          "WR": {
-            "count": 4,
-            "percentage": 25.0
-          },
-          "QB": {
-            "count": 5,
-            "percentage": 31.2
-          },
-          "TE": {
-            "count": 1,
-            "percentage": 6.2
-          },
-          "RB": {
-            "count": 3,
-            "percentage": 18.8
-          },
-          "DEF": {
-            "count": 3,
-            "percentage": 18.8
-          }
-        }
-      },
-      "15": {
-        "total_players": 7,
-        "position_breakdown": {
-          "QB": {
-            "count": 2,
-            "percentage": 28.6
-          },
-          "TE": {
-            "count": 2,
-            "percentage": 28.6
-          },
-          "PK": {
-            "count": 3,
-            "percentage": 42.9
-          }
-        }
-      },
-      "11": {
-        "total_players": 13,
-        "position_breakdown": {
-          "RB": {
-            "count": 3,
-            "percentage": 23.1
-          },
-          "QB": {
-            "count": 2,
-            "percentage": 15.4
-          },
-          "TE": {
-            "count": 1,
-            "percentage": 7.7
-          },
-          "WR": {
-            "count": 4,
-            "percentage": 30.8
-          },
-          "DEF": {
-            "count": 2,
-            "percentage": 15.4
-          },
-          "PK": {
-            "count": 1,
-            "percentage": 7.7
-          }
-        }
-      },
-      "14": {
-        "total_players": 16,
-        "position_breakdown": {
-          "WR": {
-            "count": 4,
-            "percentage": 25.0
-          },
-          "RB": {
-            "count": 3,
-            "percentage": 18.8
-          },
-          "DEF": {
-            "count": 4,
-            "percentage": 25.0
-          },
-          "PK": {
-            "count": 5,
-            "percentage": 31.2
+            "percentage": 100.0
           }
         }
       }
@@ -381,61 +46,31 @@
     "headline": "2025 Fantasy Draft: Position Scarcity and Optimal Timing Guide",
     "summary": "",
     "key_insights": [
-      "TE is the scarcest position with only 3 early-round options",
-      "WR offers the most depth with 29 early-round players",
-      "First TE goes at pick 26.3 on average",
-      "WR dominates Round 1 with 53.8% of picks"
+      "RB is the scarcest position with only 1 early-round options",
+      "RB offers the most depth with 1 early-round players",
+      "First RB goes at pick 4.5 on average",
+      "RB dominates Round 1 with 100.0% of picks"
     ],
     "sections": {
       "position_timing": {
         "title": "Optimal Position Timing",
         "description": "When to target each position for maximum value",
         "data": {
-          "WR": {
-            "early_round_count": 29,
-            "first_player_adp": 1.5,
-            "top_5_adps": [
-              1.5,
-              4.5,
-              4.8,
-              7.6,
-              9.4
-            ],
-            "avg_early_adp": 30.4
-          },
           "RB": {
-            "early_round_count": 22,
-            "first_player_adp": 2.2,
+            "early_round_count": 1,
+            "first_player_adp": 4.5,
             "top_5_adps": [
-              2.2,
-              2.3,
-              5.0,
-              7.5,
-              10.9
+              4.5
             ],
-            "avg_early_adp": 27.2
+            "avg_early_adp": 4.5
           },
           "QB": {
-            "early_round_count": 7,
-            "first_player_adp": 23.7,
+            "early_round_count": 1,
+            "first_player_adp": 24.1,
             "top_5_adps": [
-              23.7,
-              24.2,
-              30.6,
-              31.7,
-              38.7
+              24.1
             ],
-            "avg_early_adp": 36.4
-          },
-          "TE": {
-            "early_round_count": 3,
-            "first_player_adp": 26.3,
-            "top_5_adps": [
-              26.3,
-              32.3,
-              43.5
-            ],
-            "avg_early_adp": 34.0
+            "avg_early_adp": 24.1
           }
         }
       },
@@ -444,325 +79,20 @@
         "description": "Position distribution by round",
         "data": {
           "1": {
-            "total_players": 13,
+            "total_players": 1,
             "position_breakdown": {
-              "WR": {
-                "count": 7,
-                "percentage": 53.8
-              },
               "RB": {
-                "count": 6,
-                "percentage": 46.2
+                "count": 1,
+                "percentage": 100.0
               }
             }
           },
           "2": {
-            "total_players": 13,
+            "total_players": 1,
             "position_breakdown": {
-              "RB": {
-                "count": 6,
-                "percentage": 46.2
-              },
-              "WR": {
-                "count": 5,
-                "percentage": 38.5
-              },
-              "QB": {
-                "count": 2,
-                "percentage": 15.4
-              }
-            }
-          },
-          "5": {
-            "total_players": 11,
-            "position_breakdown": {
-              "WR": {
-                "count": 5,
-                "percentage": 45.5
-              },
-              "RB": {
-                "count": 4,
-                "percentage": 36.4
-              },
-              "QB": {
-                "count": 2,
-                "percentage": 18.2
-              }
-            }
-          },
-          "4": {
-            "total_players": 13,
-            "position_breakdown": {
-              "RB": {
-                "count": 4,
-                "percentage": 30.8
-              },
               "QB": {
                 "count": 1,
-                "percentage": 7.7
-              },
-              "WR": {
-                "count": 7,
-                "percentage": 53.8
-              },
-              "TE": {
-                "count": 1,
-                "percentage": 7.7
-              }
-            }
-          },
-          "7": {
-            "total_players": 15,
-            "position_breakdown": {
-              "QB": {
-                "count": 3,
-                "percentage": 20.0
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 13.3
-              },
-              "WR": {
-                "count": 7,
-                "percentage": 46.7
-              },
-              "RB": {
-                "count": 3,
-                "percentage": 20.0
-              }
-            }
-          },
-          "13": {
-            "total_players": 31,
-            "position_breakdown": {
-              "QB": {
-                "count": 5,
-                "percentage": 16.1
-              },
-              "TE": {
-                "count": 3,
-                "percentage": 9.7
-              },
-              "WR": {
-                "count": 5,
-                "percentage": 16.1
-              },
-              "RB": {
-                "count": 7,
-                "percentage": 22.6
-              },
-              "PK": {
-                "count": 6,
-                "percentage": 19.4
-              },
-              "DEF": {
-                "count": 5,
-                "percentage": 16.1
-              }
-            }
-          },
-          "8": {
-            "total_players": 9,
-            "position_breakdown": {
-              "WR": {
-                "count": 6,
-                "percentage": 66.7
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 22.2
-              },
-              "RB": {
-                "count": 1,
-                "percentage": 11.1
-              }
-            }
-          },
-          "12": {
-            "total_players": 17,
-            "position_breakdown": {
-              "TE": {
-                "count": 2,
-                "percentage": 11.8
-              },
-              "RB": {
-                "count": 5,
-                "percentage": 29.4
-              },
-              "QB": {
-                "count": 1,
-                "percentage": 5.9
-              },
-              "WR": {
-                "count": 4,
-                "percentage": 23.5
-              },
-              "PK": {
-                "count": 3,
-                "percentage": 17.6
-              },
-              "DEF": {
-                "count": 2,
-                "percentage": 11.8
-              }
-            }
-          },
-          "3": {
-            "total_players": 11,
-            "position_breakdown": {
-              "RB": {
-                "count": 2,
-                "percentage": 18.2
-              },
-              "WR": {
-                "count": 5,
-                "percentage": 45.5
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 18.2
-              },
-              "QB": {
-                "count": 2,
-                "percentage": 18.2
-              }
-            }
-          },
-          "10": {
-            "total_players": 15,
-            "position_breakdown": {
-              "WR": {
-                "count": 5,
-                "percentage": 33.3
-              },
-              "QB": {
-                "count": 2,
-                "percentage": 13.3
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 13.3
-              },
-              "RB": {
-                "count": 3,
-                "percentage": 20.0
-              },
-              "DEF": {
-                "count": 3,
-                "percentage": 20.0
-              }
-            }
-          },
-          "6": {
-            "total_players": 13,
-            "position_breakdown": {
-              "WR": {
-                "count": 5,
-                "percentage": 38.5
-              },
-              "RB": {
-                "count": 5,
-                "percentage": 38.5
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 15.4
-              },
-              "QB": {
-                "count": 1,
-                "percentage": 7.7
-              }
-            }
-          },
-          "9": {
-            "total_players": 16,
-            "position_breakdown": {
-              "WR": {
-                "count": 4,
-                "percentage": 25.0
-              },
-              "QB": {
-                "count": 5,
-                "percentage": 31.2
-              },
-              "TE": {
-                "count": 1,
-                "percentage": 6.2
-              },
-              "RB": {
-                "count": 3,
-                "percentage": 18.8
-              },
-              "DEF": {
-                "count": 3,
-                "percentage": 18.8
-              }
-            }
-          },
-          "15": {
-            "total_players": 7,
-            "position_breakdown": {
-              "QB": {
-                "count": 2,
-                "percentage": 28.6
-              },
-              "TE": {
-                "count": 2,
-                "percentage": 28.6
-              },
-              "PK": {
-                "count": 3,
-                "percentage": 42.9
-              }
-            }
-          },
-          "11": {
-            "total_players": 13,
-            "position_breakdown": {
-              "RB": {
-                "count": 3,
-                "percentage": 23.1
-              },
-              "QB": {
-                "count": 2,
-                "percentage": 15.4
-              },
-              "TE": {
-                "count": 1,
-                "percentage": 7.7
-              },
-              "WR": {
-                "count": 4,
-                "percentage": 30.8
-              },
-              "DEF": {
-                "count": 2,
-                "percentage": 15.4
-              },
-              "PK": {
-                "count": 1,
-                "percentage": 7.7
-              }
-            }
-          },
-          "14": {
-            "total_players": 16,
-            "position_breakdown": {
-              "WR": {
-                "count": 4,
-                "percentage": 25.0
-              },
-              "RB": {
-                "count": 3,
-                "percentage": 18.8
-              },
-              "DEF": {
-                "count": 4,
-                "percentage": 25.0
-              },
-              "PK": {
-                "count": 5,
-                "percentage": 31.2
+                "percentage": 100.0
               }
             }
           }

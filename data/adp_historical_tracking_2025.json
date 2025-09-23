@@ -39,6 +39,24 @@
           "end_date": "2025-09-08"
         }
       }
+    },
+    {
+      "date": "2025-09-23T06:33:28.355544",
+      "total_players": 2,
+      "source_meta": {
+        "created_at": "2025-09-23T06:33:28.353640",
+        "season": 2025,
+        "primary_scoring": "ppr",
+        "total_players": 2,
+        "source_meta": {
+          "type": "PPR",
+          "teams": 12,
+          "rounds": 15,
+          "total_drafts": 184,
+          "start_date": "2025-09-15",
+          "end_date": "2025-09-22"
+        }
+      }
     }
   ],
   "players": {
@@ -90,6 +108,11 @@
           "date": "2025-09-09T06:33:40.297257",
           "ppr_adp": 2.3,
           "times_drafted": 146
+        },
+        {
+          "date": "2025-09-23T06:33:28.355552",
+          "ppr_adp": 4.5,
+          "times_drafted": 15
         }
       ]
     },
@@ -481,6 +504,11 @@
           "date": "2025-09-09T06:33:40.297303",
           "ppr_adp": 24.2,
           "times_drafted": 295
+        },
+        {
+          "date": "2025-09-23T06:33:28.355555",
+          "ppr_adp": 24.1,
+          "times_drafted": 14
         }
       ]
     },

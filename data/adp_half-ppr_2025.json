@@ -3,12 +3,12 @@
     "type": "Half-PPR",
     "teams": 12,
     "rounds": 15,
-    "total_drafts": 157,
-    "start_date": "2025-09-07",
-    "end_date": "2025-09-08"
+    "total_drafts": 151,
+    "start_date": "2025-09-21",
+    "end_date": "2025-09-22"
   },
   "players": [],
-  "collected_at": "2025-09-09T06:33:24.649280",
+  "collected_at": "2025-09-23T06:33:12.772291",
   "scoring": "half-ppr",
   "teams": 12,
   "position": "all"

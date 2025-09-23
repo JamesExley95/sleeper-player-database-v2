@@ -25,7 +25,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.291194"
+    "last_updated": "2025-09-23T06:33:07.349257"
   },
   "NE": {
     "player_id": "NE",
@@ -53,7 +53,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.292364"
+    "last_updated": "2025-09-23T06:33:07.350168"
   },
   "BAL": {
     "player_id": "BAL",
@@ -81,7 +81,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.293592"
+    "last_updated": "2025-09-23T06:33:07.351445"
   },
   "PIT": {
     "player_id": "PIT",
@@ -109,7 +109,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.294721"
+    "last_updated": "2025-09-23T06:33:07.352677"
   },
   "IND": {
     "player_id": "IND",
@@ -137,7 +137,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.294828"
+    "last_updated": "2025-09-23T06:33:07.352806"
   },
   "ARI": {
     "player_id": "ARI",
@@ -165,7 +165,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.295824"
+    "last_updated": "2025-09-23T06:33:07.353834"
   },
   "SEA": {
     "player_id": "SEA",
@@ -193,7 +193,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.295892"
+    "last_updated": "2025-09-23T06:33:07.353906"
   },
   "LV": {
     "player_id": "LV",
@@ -221,7 +221,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.296015"
+    "last_updated": "2025-09-23T06:33:07.354019"
   },
   "NYJ": {
     "player_id": "NYJ",
@@ -249,7 +249,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.296686"
+    "last_updated": "2025-09-23T06:33:07.354720"
   },
   "DAL": {
     "player_id": "DAL",
@@ -277,7 +277,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.297952"
+    "last_updated": "2025-09-23T06:33:07.356019"
   },
   "WAS": {
     "player_id": "WAS",
@@ -305,7 +305,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.298571"
+    "last_updated": "2025-09-23T06:33:07.356665"
   },
   "LAC": {
     "player_id": "LAC",
@@ -333,7 +333,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.298930"
+    "last_updated": "2025-09-23T06:33:07.357040"
   },
   "TB": {
     "player_id": "TB",
@@ -361,7 +361,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.300248"
+    "last_updated": "2025-09-23T06:33:07.358394"
   },
   "CLE": {
     "player_id": "CLE",
@@ -389,7 +389,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.300470"
+    "last_updated": "2025-09-23T06:33:07.358624"
   },
   "ATL": {
     "player_id": "ATL",
@@ -417,7 +417,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.302262"
+    "last_updated": "2025-09-23T06:33:07.360458"
   },
   "CAR": {
     "player_id": "CAR",
@@ -445,7 +445,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.302372"
+    "last_updated": "2025-09-23T06:33:07.360572"
   },
   "JAX": {
     "player_id": "JAX",
@@ -473,7 +473,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.303205"
+    "last_updated": "2025-09-23T06:33:07.361443"
   },
   "LAR": {
     "player_id": "LAR",
@@ -501,7 +501,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.303365"
+    "last_updated": "2025-09-23T06:33:07.361605"
   },
   "NO": {
     "player_id": "NO",
@@ -529,7 +529,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.305047"
+    "last_updated": "2025-09-23T06:33:07.363238"
   },
   "GB": {
     "player_id": "GB",
@@ -557,7 +557,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.305134"
+    "last_updated": "2025-09-23T06:33:07.363328"
   },
   "MIA": {
     "player_id": "MIA",
@@ -585,7 +585,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.309499"
+    "last_updated": "2025-09-23T06:33:07.367786"
   },
   "DET": {
     "player_id": "DET",
@@ -613,7 +613,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.310260"
+    "last_updated": "2025-09-23T06:33:07.368534"
   },
   "BUF": {
     "player_id": "BUF",
@@ -641,7 +641,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.310365"
+    "last_updated": "2025-09-23T06:33:07.368639"
   },
   "PHI": {
     "player_id": "PHI",
@@ -669,7 +669,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.310658"
+    "last_updated": "2025-09-23T06:33:07.368954"
   },
   "SF": {
     "player_id": "SF",
@@ -697,7 +697,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.311090"
+    "last_updated": "2025-09-23T06:33:07.369378"
   },
   "NYG": {
     "player_id": "NYG",
@@ -725,7 +725,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.312065"
+    "last_updated": "2025-09-23T06:33:07.370385"
   },
   "TEN": {
     "player_id": "TEN",
@@ -753,7 +753,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.312152"
+    "last_updated": "2025-09-23T06:33:07.370477"
   },
   "CHI": {
     "player_id": "CHI",
@@ -781,7 +781,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.313486"
+    "last_updated": "2025-09-23T06:33:07.371890"
   },
   "CIN": {
     "player_id": "CIN",
@@ -809,7 +809,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.314143"
+    "last_updated": "2025-09-23T06:33:07.372545"
   },
   "DEN": {
     "player_id": "DEN",
@@ -837,7 +837,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.315620"
+    "last_updated": "2025-09-23T06:33:07.374016"
   },
   "KC": {
     "player_id": "KC",
@@ -865,7 +865,7 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.317879"
+    "last_updated": "2025-09-23T06:33:07.376116"
   },
   "MIN": {
     "player_id": "MIN",
@@ -893,6 +893,6 @@
     "rotowire_id": null,
     "rotoworld_id": null,
     "fantasy_data_id": null,
-    "last_updated": "2025-09-09T06:33:19.318402"
+    "last_updated": "2025-09-23T06:33:07.376595"
   }
 }

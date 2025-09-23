@@ -1,0 +1,102 @@
+{
+  "generation_timestamp": "2025-09-23T06:33:31.626563",
+  "content_types": {
+    "adp_volatility": {
+      "headline": "Fantasy Draft Risk Assessment: Most Volatile vs Safest Picks",
+      "summary": "\n        Analysis of 0 top fantasy players reveals significant \n        volatility differences in 2025 drafts. 0 early-round picks show \n        high volatility (3+ pick standard deviation), while 0 players \n        demonstrate remarkable draft consensus.\n        ",
+      "key_insights": [],
+      "sections": {
+        "high_risk_players": {
+          "title": "High-Risk Early Round Picks",
+          "description": "Players with significant draft position volatility",
+          "players": []
+        },
+        "safe_picks": {
+          "title": "Consensus Safe Picks",
+          "description": "Players with consistent draft positions",
+          "players": []
+        },
+        "position_analysis": {
+          "title": "Position Volatility Rankings",
+          "description": "Average draft volatility by position",
+          "data": {}
+        }
+      }
+    },
+    "position_scarcity": {
+      "headline": "2025 Fantasy Draft: Position Scarcity and Optimal Timing Guide",
+      "summary": "",
+      "key_insights": [
+        "RB is the scarcest position with only 1 early-round options",
+        "RB offers the most depth with 1 early-round players",
+        "First RB goes at pick 4.5 on average",
+        "RB dominates Round 1 with 100.0% of picks"
+      ],
+      "sections": {
+        "position_timing": {
+          "title": "Optimal Position Timing",
+          "description": "When to target each position for maximum value",
+          "data": {
+            "RB": {
+              "early_round_count": 1,
+              "first_player_adp": 4.5,
+              "top_5_adps": [
+                4.5
+              ],
+              "avg_early_adp": 4.5
+            },
+            "QB": {
+              "early_round_count": 1,
+              "first_player_adp": 24.1,
+              "top_5_adps": [
+                24.1
+              ],
+              "avg_early_adp": 24.1
+            }
+          }
+        },
+        "round_breakdown": {
+          "title": "Draft Round Composition",
+          "description": "Position distribution by round",
+          "data": {
+            "1": {
+              "total_players": 1,
+              "position_breakdown": {
+                "RB": {
+                  "count": 1,
+                  "percentage": 100.0
+                }
+              }
+            },
+            "2": {
+              "total_players": 1,
+              "position_breakdown": {
+                "QB": {
+                  "count": 1,
+                  "percentage": 100.0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "weekly_recap": {
+      "headline": "Week 3 Fantasy Recap: Stars, Busts, and ADP Reality Check",
+      "summary": "",
+      "key_insights": [],
+      "sections": {
+        "top_performers": {
+          "title": "Week 3 Top Performers",
+          "description": "Players who delivered elite fantasy production",
+          "players": []
+        },
+        "disappointments": {
+          "title": "Early Pick Disappointments",
+          "description": "High-ADP players who underperformed expectations",
+          "players": []
+        }
+      }
+    }
+  }
+}

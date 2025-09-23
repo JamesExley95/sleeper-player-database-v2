@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-09T06:33:44.237068",
+  "timestamp": "2025-09-23T06:33:31.706718",
   "overall_status": "warning",
   "validations": {
     "file_structure": {
@@ -19,43 +19,43 @@
     },
     "adp_data": {
       "status": "pass",
-      "total_players": 213,
-      "valid_adp_players": 213,
-      "ppr_players": 213,
+      "total_players": 2,
+      "valid_adp_players": 2,
+      "ppr_players": 2,
       "quality_rate": 100.0,
       "source_meta": {
-        "created_at": "2025-09-09T06:33:40.291891",
+        "created_at": "2025-09-23T06:33:28.353640",
         "season": 2025,
         "primary_scoring": "ppr",
-        "total_players": 213,
+        "total_players": 2,
         "source_meta": {
           "type": "PPR",
           "teams": 12,
           "rounds": 15,
-          "total_drafts": 2637,
-          "start_date": "2025-09-01",
-          "end_date": "2025-09-08"
+          "total_drafts": 184,
+          "start_date": "2025-09-15",
+          "end_date": "2025-09-22"
         }
       }
     },
     "draft_database": {
       "status": "pass",
-      "total_players": 213,
-      "sleeper_matched": 159,
-      "adp_integrated": 213,
-      "match_rate": 74.65
+      "total_players": 2,
+      "sleeper_matched": 2,
+      "adp_integrated": 2,
+      "match_rate": 100.0
     },
     "performance_data": {
       "status": "pass",
-      "total_players": 310,
-      "players_with_data": 310,
-      "avg_weeks_per_player": 1.0,
-      "total_week_records": 310
+      "total_players": 376,
+      "players_with_data": 376,
+      "avg_weeks_per_player": 1.7,
+      "total_week_records": 626
     },
     "data_freshness": {
       "status": "pass",
       "freshness_issues": [],
-      "check_timestamp": "2025-09-09T06:33:44.265760"
+      "check_timestamp": "2025-09-23T06:33:31.734594"
     }
   },
   "errors": [],
